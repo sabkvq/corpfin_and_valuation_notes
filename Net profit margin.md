@@ -1,0 +1,5 @@
+---
+aliases:
+  - NPM
+tags: []
+---
