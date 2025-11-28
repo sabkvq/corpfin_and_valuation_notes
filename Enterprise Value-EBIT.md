@@ -1,0 +1,5 @@
+---
+aliases:
+  - EV/EBIT
+tags: []
+---

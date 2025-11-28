@@ -16,3 +16,10 @@ tags: []
 - [[Рентабельность инвестированного капитала|ROIC]]
 - [[Экономическая добавленная стоимость|EVA]]
 - [[Total Shareholder Return]]
+
+
+
+# Направления
+- [[Value Based Assets Management]]
+- [[Value Based Investments]]
+- [[Value Based Financing]]

@@ -67,7 +67,7 @@ Here is your completed list, maintaining the Obsidian markdown formatting and in
 
 - [[Earnings per share]] (EPS)
 - [[Price-to-Cash Flow Ratio]]
-- [[Price to book value ratio]] (P/B)
+- [[Market–book-value ratio]] (P/B)
 - [[Price-to-earnings ratio]] (P/E)
 - [[Price-to-sales ratio]] (P/S)
 - [[Price-earnings-to-growth rate]] (PEG)
