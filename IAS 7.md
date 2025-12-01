@@ -1,1 +1,1 @@
-Описывает [[Приоритетно/УСБ ЭКЗАМЕН/Cash Flow Statement|CF]]
+Описывает [[Cash Flow Statement|CF]]

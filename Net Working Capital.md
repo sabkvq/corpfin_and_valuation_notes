@@ -10,3 +10,5 @@ tags: []
 
 
 применяется вместе с [[Equity Working Capital]]
+
+есть [[Net working capital investment]]
