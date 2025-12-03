@@ -5,11 +5,11 @@ aliases:
   - Рисковая надбавка
   - Доходность на капитал, компенсирующей риск
 ---
-Rate of return in excess of the [[Risk-free rate]]
+Rate of return in excess of the [[Безрисковая ставка]]
 
 An [[Expected return]] in excess of that on risk-free securities. The premium provides compensation for the risk of an investment
 
-r_p считается при вычитании из рискового актива [[Risk-free rate]]
+r_p считается при вычитании из рискового актива [[Безрисковая ставка]]
 
 
 $R_i = \alpha_i + \beta_i (R_m) + e_i$
